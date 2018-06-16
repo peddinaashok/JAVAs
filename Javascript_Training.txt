@@ -1,0 +1,108 @@
+ github.com\kolaparthisrini
+ github.com\srinivaskolaparthi
+https://github.com/kolaparthisrini/FullStackJune18
+
+Javascript:
+
+Polyfills -- for html5 issues in browser.
+
+Greenthreads -- To provide multithreading for single processing CPU's.
+
+Javascript is single threaded but can be made multithreaded by using NodeJS.
+
+I/o facility in Javascrpit is done by NodeJS.
+
+NodeJS -> Backend processing , security also
+
+
+JS code works in IE then it can work in any browser.
+
+
+DOM(document object model) follows Tree structure.
+
+
+Queries:
+-----------------
+Class loading
+Dynamic loading
+Greenthreads
+
+
+
+Device detection logic to detect source of request.
+
+Javascript engines:
+------------------
+SpiderMoney - Mozilla
+chakra -- IE
+V8 -- Chrome
+
+
+Fiddler -> to check network responses(official in CG)
+
+frameworks for JS
+---------------------
+Desktop Web:  angular/ember/react/backbone/
+js mobile web fw:sencha/reactnative/iconic
+
+Kony framework uses JS used in all applications(web, mobile)
+
+MAM(mobile application mgmt), MDm(mobile device mgmt) dev using JS-> aIRWATCH proving licenece
+
+
+Need for project:
+------------------
+1. Identify JS version
+
+Security:
+------------------
+1. Script Injections _> can insert eval() function and can destory ur browser.
+Ans:  Antisamy rules
+
+
+Object based language -> Injheritance is not supported so we need to use prototyping object mapping and it is browser
+dependent so it is better to use((es6/typescript)/coffee script/dart)
+
+exa: import/export/arrow functions/arrays for Angular
+
+
+Migrating form version to new version we need to use babel(transpiler)
+
+Dependency -> To fufil the task which can not be done by core functionality tools-> npm/(yarn(app.json/package.json))
+
+ECMA version 
+
+
+1. datatypes
+2. loops
+3. conditional stmts
+4. sbi
+5. js function concepts
+6. es6 features
+7. typescript
+8. object js api
+
+
+=== -> check data type and value- Deep comparator
+== -> shallow comparator
+
+
+
+js supports iterators 
+
+
+
+Work:
+--------------
+1. Strings
+
+
+Quartz -> trigger activity on particular time
+
+
+
+
+
+
+
+
